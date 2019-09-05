@@ -3,18 +3,84 @@
 <section id="services" class="section-padding">
     <div class="container">
         <div class="section-header text-center">
-            <h2 class="section-title wow fadeInDown" data-wow-delay="0.3s">Tahukah Anda?</h2>
+            <h3>Tahukah Anda?</h3><h4>Fakta Seputar Bisnis Online Dan Potensinya Ke Depan</h4><br><br>
             <div class="shape wow fadeInDown" data-wow-delay="0.3s"></div>
         </div>
-        <div class="row" style="font-size:20px;padding-bottom:25px;font-family: Montserrat-Regular;line-height: 1.5;">
-            <div class="col-md-6 text-center" style="display:flex"><i class="fas fa-box-open"></i><b> 21 Juta Paket</b> Dikirim via JNE Setiap Hari</div>
-            <div class="col-md-6 text-center" style="display:flex"><i class="fas fa-box-open"></i><b> 5.8 Juta Order</b> masuk ke Shopee dalam 24 Jam</div>
-            <div class="w-100 text-center"></div>
-            <div class="col-md-6 text-center" style="display:flex"><i class="fas fa-box-open"></i>Setiap Bulan<b> 20 Juta Produk</b> Dikirimkan Tokopedia</div>
-            <div class="col-md-6 text-center" style="display:flex"><i class="fas fa-box-open"></i><b> 21 Juta Paket</b> Dikirim via JNE Setiap Hari</div>
-            <div class="w-100 text-center"></div>
-            <div class="col-md-6 text-center" style="display:flex"><i class="fas fa-box-open"></i>Setiap Bulan<b> 20 Juta Produk</b> Dikirimkan Tokopedia</div>
-            <div class="col-md-6 text-center" style="display:flex"><i class="fas fa-box-open"></i><b> 21 Juta Paket</b> Dikirim via JNE Setiap Hari</div>
-        </div>
+        <div class="row">
+                <div class="col-12 col-lg-4">
+                    <div class="card features">
+                        <div class="card-body">
+                            <div class="media">
+                                <span class="ti-3x mr-3"></span>
+                                <div class="media-body">
+                                    <i class="fas fa-box-open" style="float:center"></i> Ada <b>6 Juta Pelapak</b> Aktif di Bukalapak
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <div class="card features">
+                    <div class="card-body">
+                            <div class="media">
+                                <span class="ti-3x mr-3"></span>
+                                <div class="media-body">
+                                <i class="fas fa-box-open" style="float:center"></i> Setiap Bulan <b>20 Juta Produk</b> Dikirimkan Tokopedia
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <div class="card features">
+                    <div class="card-body">
+                            <div class="media">
+                                <span class="ti-3x mr-3"></span>
+                                <div class="media-body">
+                                <i class="fas fa-box-open" style="float:center"></i> Ada <b>6 Juta Pelapak</b> Aktif di Bukalapak
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div><br>
+        <div class="row" style="padding-bottom:7px">
+                <div class="col-12 col-lg-4">
+                    <div class="card features">
+                        <div class="card-body">
+                            <div class="media">
+                                <span class="ti-3x mr-3"></span>
+                                <div class="media-body">
+                                <i class="fas fa-box-open" style="float:center"></i> <b>5.8 Juta Order</b> masuk ke Shopee dalam 24 Jam
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <div class="card features">
+                    <div class="card-body">
+                            <div class="media">
+                                <span class="ti-3x mr-3"></span>
+                                <div class="media-body">
+                                <i class="fas fa-box-open" style="float:center"></i> Bukalapak Mencatatkan <b>50 Juta Transaksi</b> Per Bulan
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <div class="card features">
+                    <div class="card-body">
+                            <div class="media">
+                                <span class="ti-3x mr-3"></span>
+                                <div class="media-body">
+                                <i class="fas fa-box-open" style="float:center"></i> Transaksi Harbolnas 2018 Tembus <b>6.8 Triliun</b>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
     </div>
 </section>

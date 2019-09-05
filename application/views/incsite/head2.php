@@ -1,5 +1,6 @@
 <div style="position:fixed;left:20px;bottom:20px;border-radius:25px;z-index:1">
-	<button type="button" class="btn btn-primary btn-lg" style="border-radius:25px;font-size:20px;" data-toggle="modal" data-target="#cskntk"><i class="fa fa-whatsapp"> Chat Admin</i></button></a>
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+	<button type="button" class="btn btn-primary btn-lg" style="border-radius:25px;font-size:20px;" data-toggle="modal" data-target="#cskntk"><i class="fab fa-whatsapp"> Chat Admin</i></button></a>
 </div>
 <!-- Modal -->
 <div class="modal fade" id="cskntk" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">

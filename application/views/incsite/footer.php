@@ -23,9 +23,9 @@
 							<h3>Follow Us </h3><br>
 							<p>Follow kami di media sosial</p>
 							<p>
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="https://instagram.com/dropspace.id"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa-google-plus"></i></a>
+								<a href="#"><i class="fab fa-facebook"></i></a>
+								<a href="https://instagram.com/dropspace.id"><i class="fab fa-instagram"></i></a>
+								<a href="#"><i class="fab fa-google-plus"></i></a>
 							</p>
 						</div>
 					</div>
