@@ -5,6 +5,7 @@
 </head><!--/head-->
 
 <body>
+
 	<?php $this->load->view('incsite/head2'); ?>
 	
 	<?php $this->load->view('incsite/slider'); ?>
@@ -28,9 +29,7 @@
 			padding:10px;
 		}
 		</style>
-		<div class="bannernya" style="position:relative;">
-			<img class="img-responsive" src="<?php echo base_url(); ?>assets/gmbr1.png">
-		</div>
+		<?php $this->load->view('incsite/tahukahanda'); ?>
 
 		<div><!-- produk kami -->
 			<div class="box-headingku">Produk Kami</div>
@@ -91,10 +90,6 @@
 		</div>
 	</div>
 	</div>
-
-		<div class="bannernya" style="position:relative;">
-			<a href="<?php echo base_url(); ?>site/menjadireseller"><img class="img-responsive" src="https://www.lemoncustomshop.com/image/cache/RESELLER/banner%20home%20reseller-1096x404.jpg"></a>
-	    </div>
 			
 		</div>
 	</section>

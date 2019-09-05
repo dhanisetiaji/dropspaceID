@@ -1,3 +1,72 @@
+<div style="position:fixed;left:20px;bottom:20px;border-radius:25px;z-index:1">
+	<button type="button" class="btn btn-primary btn-lg" style="border-radius:25px;font-size:20px;" data-toggle="modal" data-target="#cskntk"><i class="fa fa-whatsapp"> Chat Admin</i></button></a>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="cskntk" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+		<div class="modal-body text-center" style="font-family: Montserrat-Reguler">
+			<h4>Chat Dengan Admin</h4>
+			<p>Siap melayani pertanyaan anda seputar cara daftar, jualan online, marketplace, social media, tips & trik, dll.</p>
+		</div>
+		<div class="modal-body" style="font-family: Montserrat-Reguler">
+		<!-- <center><a href="https://api.whatsapp.com/send?phone=628122727051&text=Hallo ka,%20saya%20mau%20join%20reseller%20<?php echo base_url(); ?>."><button type="button" class="btn btn-primary btn-lg">ADMIN 1</button></a>   <a href="https://api.whatsapp.com/send?phone=628122727051&text=Hallo ka,%20saya%20mau%20join%20reseller%20<?php echo base_url(); ?>."><button type="button" class="btn btn-primary btn-lg">ADMIN 2</button></a></center> -->
+			<div class="row align-items-center">
+				<div class="col-md-2 col-4">
+					<img src="https://www.resellerdropship.com/media/uploads/icon-admin/boy_128px.png" class="img-fluid">
+				</div>
+				<div class="col-md-10 col-8">
+					<div class="row align-items-center">
+						<div class="col-sm-6 col-12">
+							<h4 class="no-margin-bottom" style="color: #1E88E5;border-bottom:0px;">
+							ADMIN 1
+							</h4>
+							<p style="font-size: 12px;">Telp/WA: 0857-2276-0905</p>
+						</div>
+							<div class="col-sm-6 col-12 text-right" style="color: green;">
+								<a href="https://api.whatsapp.com/send?phone=6285722760905&amp;text=Hi ResellerDropship.com" style="font-size: 18px; border-radius: 25px; color: green; text-decoration: none;" target="_blank">
+								<div class="row m-l-0 align-items-center justify-content-right">
+									<img src="https://www.resellerdropship.com/assets/images/button-chat.png" class="img-fluid">
+								</div>
+								</a>
+							</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="modal-body" style="font-family: Montserrat-Reguler">
+		<!-- <center><a href="https://api.whatsapp.com/send?phone=628122727051&text=Hallo ka,%20saya%20mau%20join%20reseller%20<?php echo base_url(); ?>."><button type="button" class="btn btn-primary btn-lg">ADMIN 1</button></a>   <a href="https://api.whatsapp.com/send?phone=628122727051&text=Hallo ka,%20saya%20mau%20join%20reseller%20<?php echo base_url(); ?>."><button type="button" class="btn btn-primary btn-lg">ADMIN 2</button></a></center> -->
+			<div class="row align-items-center">
+				<div class="col-md-2 col-4">
+					<img src="https://www.resellerdropship.com/media/uploads/icon-admin/boy_128px.png" class="img-fluid">
+				</div>
+				<div class="col-md-10 col-8">
+					<div class="row align-items-center">
+						<div class="col-sm-6 col-12">
+							<h4 style="color: #1E88E5;border-bottom:0px;">
+							ADMIN 2
+							</h4>
+							<p style="font-size: 12px;">Telp/WA: 0857-2276-0905</p>
+						</div>
+							<div class="col-sm-6 col-12 text-right" style="color: green;">
+								<a href="https://api.whatsapp.com/send?phone=6285722760905&amp;text=Hi ResellerDropship.com" style="font-size: 18px; border-radius: 25px; color: green; text-decoration: none;" target="_blank">
+								<div class="row m-l-0 align-items-center justify-content-right">
+									<img src="https://www.resellerdropship.com/assets/images/button-chat.png" class="img-fluid">
+								</div>
+								</a>
+							</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<button type="button" class="btn btn-secondary" data-dismiss="modal">Tutup</button>
+		</div>
+		</div>
+	</div>
+	</div>
+
+
 <header id="header"><!--header-->
 		<!-- <div class="header_top">header_top -->
 			<!-- <div class="container">
@@ -26,9 +95,9 @@
 		<div class="header-middle"><!--header-middle-->
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-4">
-						<div class="logo pull-left">
-							<a href="<?php echo base_url(); ?>"><img src="<?php echo base_url(); ?>assets/site/images/home/logo.png" alt="" /></a>
+					<div class="col-sm-4 col-sm-4logo">
+						<div class="logo img-fluid">
+							<a href="<?php echo base_url(); ?>"><img src="<?php echo base_url(); ?>assets/logo.png" alt="" /></a>
 						</div>
 					</div>
 					<!-- <div class="col-sm-8">
@@ -45,7 +114,7 @@
 		<div class="header-bottom"><!--header-bottom-->
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-9">
+					<div class="col-sm-9 col-sm-9navbar">
 						<div class="navbar-header">
 							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 								<span class="sr-only">Toggle navigation</span>
@@ -64,6 +133,7 @@
 							padding: 10px;
 							padding-bottom: 5px;
 							text-shadow: 0 0 #1e1a1f;
+							width: max-content;
 						}
 						</style>
 						<div class="mainmenu pull-left">

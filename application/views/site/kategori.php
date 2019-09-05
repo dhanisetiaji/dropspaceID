@@ -6,8 +6,10 @@
 
 <body>
 	<?php $this->load->view('incsite/head2'); ?>
-	
+	<div class="container">
 	<?php $this->load->view('incsite/slider'); ?>
+	</div>
+	
 	
 	<section>
 		<div class="container">
