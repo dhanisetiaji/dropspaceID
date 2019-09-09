@@ -98,7 +98,7 @@
 				<div class="row">
 					<div class="col-sm-4 col-sm-4logo">
 						<div class="logo img-fluid">
-							<a href="<?php echo base_url(); ?>"><img src="<?php echo base_url(); ?>assets/logo.png" alt="" /></a>
+							<a href="<?php echo base_url(); ?>"><img src="<?php echo base_url(); ?>assets/logo1.png" alt="" /></a>
 						</div>
 					</div>
 					<!-- <div class="col-sm-8">

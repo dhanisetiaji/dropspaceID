@@ -7,24 +7,27 @@
 			<ol class="carousel-indicators">
 				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 				<li data-target="#myCarousel" data-slide-to="1"></li>
-				<li data-target="#myCarousel" data-slide-to="2"></li>		
+				<!-- <li data-target="#myCarousel" data-slide-to="2"></li>		 -->
 			</ol>
  
 			<!-- deklarasi carousel -->
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
-					<img src="<?php echo base_url(); ?>assets/slider/slider1.jpg" alt="">
+					<img src="<?php echo base_url(); ?>assets/slider/slid1.jpg" alt="">
+					<div class="carousel-caption">
+						<h3 style="font-size:30px">Ingin Jadi Reseller / Dropshipper Dengan Omset Ratusan Juta?</h3>
+						<p>Ribuan Produk Siap Jual, Dengan Katalog Lengkap, Pastinya Dengan Kualitas Premium, Dan Harga Yang Terjangkau</p>
+						<p><center><button type="button" class="btn btn-info">Daftar Yuk</button></center></p>
+					</div>
 				</div>
 				<div class="item">
-					<img src="<?php echo base_url(); ?>assets/slider/slider1.jpg" alt="">
-				</div>
-				<div class="item">
-					<img src="<?php echo base_url(); ?>assets/slider/slider1.jpg" alt="">
-					<!-- <div class="carousel-caption">
-						<h3>Tutorial Android</h3>
-						<p>Tutorial membuat aplikasi android.</p>
-					</div> -->
-				</div>				
+					<img src="<?php echo base_url(); ?>assets/slider/slid2.jpg" alt="">
+					<div class="carousel-caption">
+						<h3 style="font-size:30px">Ingin Jadi Reseller / Dropshipper Dengan Omset Ratusan Juta?</h3>
+						<p>Ribuan Produk Siap Jual, Dengan Katalog Lengkap, Pastinya Dengan Kualitas Premium, Dan Harga Yang Terjangkau</p>
+						<p><center><button type="button" class="btn btn-info">Daftar Yuk</button></center></p>
+					</div>
+				</div>		
 			</div>
  
 			<!-- membuat panah next dan previous -->
