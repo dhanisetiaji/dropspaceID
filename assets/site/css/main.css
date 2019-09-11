@@ -222,8 +222,8 @@ a#scrollUp i{
 
 
 .header-bottom {
-  padding-bottom: 20px;
-  padding-top: 8px;
+  padding-bottom: 5px;
+  padding-top: 10px;
 }
 
 .navbar-collapse.collapse{
@@ -2544,8 +2544,9 @@ h2 {
 	float: none !important;
 }
 .carousel {
-	margin: 50px auto;
-	padding: 0 0px;
+	/* margin: 50px auto; */
+  padding: 0 0px;
+  margin-top: 10px;
 }
 .carousel .item {
 	color: #999;
@@ -2613,6 +2614,11 @@ h2 {
 }
 
 
+@media only screen and (max-device-width: 480px) {
+  .carousel-caption {
+    top: -32px;
+  }
+}
 
 .carousel-caption {
   color: white;
@@ -2626,12 +2632,9 @@ h2 {
   xbottom: initial;
   padding: 10px;
   height: 100%;
+  z-index: auto;
 }
 
-.carousel-caption>ul,
-p {
-  text-align: center;
-}
 
 .col-sm-9navbar {
   width: auto;
