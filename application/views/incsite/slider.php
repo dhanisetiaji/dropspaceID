@@ -17,15 +17,16 @@
 					<div class="carousel-caption">
 						<h3 style="font-size:30px">Ingin Jadi Reseller / Dropshipper Dengan Omset Ratusan Juta?</h3>
 						<p>Ribuan Produk Siap Jual, Dengan Katalog Lengkap, Pastinya Dengan Kualitas Premium, Dan Harga Yang Terjangkau</p>
-						<p><center><button type="button" class="btn btn-info">Daftar Yuk</button></center></p>
+						<p><center><input type="button" class="btn btn-info" value="Daftar Yuk" onclick="window.location.href='https://google.com'" /></center></p>
 					</div>
 				</div>
 				<div class="item">
 					<img src="<?php echo base_url(); ?>assets/slider/slid2.jpg" alt="">
 					<div class="carousel-caption">
-						<h3 style="font-size:30px">Ingin Jadi Reseller / Dropshipper Dengan Omset Ratusan Juta?</h3>
-						<p>Ribuan Produk Siap Jual, Dengan Katalog Lengkap, Pastinya Dengan Kualitas Premium, Dan Harga Yang Terjangkau</p>
-						<p><center><button type="button" class="btn btn-info">Daftar Yuk</button></center></p>
+						<h3 style="font-size:20px">Yuk! Ajak Temenmu Jadi Dropshipper Juga Dan Dapatkan Cashback?</h3>
+						<h2 style="font-size:85px">50.000</h2>
+						<p>*syarat dan ketentuan berlaku</p>
+						<p><center><input type="button" class="btn btn-info" value="Mau Juga Dong" onclick="window.location.href='https://google.com'" /></center></p>
 					</div>
 				</div>		
 			</div>

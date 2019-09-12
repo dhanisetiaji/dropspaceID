@@ -150,7 +150,7 @@
 									<?php } ?>
 									</div>
 								</li>
-								<li><a href="<?php echo base_url(); ?>site/menjadireseller">MENJADI RESELLER</a></li>
+								<li><a href="<?php echo base_url(); ?>site/menjadireseller">CARA DAFTAR</a></li>
 								<!-- <li><a href="#">Promosi</a></li> -->
 								<li><a href="<?php echo base_url(); ?>#testi">TESTIMONI</a></li>
 								<li><a href="<?php echo base_url(); ?>#kontak">CONTACT US</a></li>

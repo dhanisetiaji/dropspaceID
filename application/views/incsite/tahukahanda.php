@@ -3,7 +3,7 @@
 <section id="services" class="section-padding">
     <div class="container">
         <div class="section-header text-center">
-            <h3>Tahukah Anda?</h3><h4>Fakta Seputar Bisnis Online Dan Potensinya Ke Depan</h4><br><br>
+            <h3>Tahukah Kamu?</h3><h4>Fakta Seputar Bisnis Online Dan Potensinya Ke Depan</h4><br><br>
             <div class="shape wow fadeInDown" data-wow-delay="0.3s"></div>
         </div>
         <div class="row">
