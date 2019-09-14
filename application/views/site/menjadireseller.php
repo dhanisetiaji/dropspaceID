@@ -132,7 +132,7 @@
 					</div>
 					</center>
 					</div>
-					<button type="button" class="btn btn-primary btn-lg" style="border-radius:25px;font-size:20px;" data-toggle="modal" data-target="#cskntk"><span class="fab fa-whatsapp"> Klik Disini Untuk Daftar Jadi Resseler Dropship</button></a>
+					<a href="https://google.com" class="btn btn-success" role="button" style="border-radius:20px;font-size:20px;"><span class="fab fa-whatsapp"> Klik Disini Untuk Daftar Jadi Resseler Dropship</a>
 					<!-- <img class="img-responsive" src="<?php echo base_url(); ?>assets/menjadires/menjadires14.png" alt="<?php echo base_url(); ?>"> -->
 				</div>
 		</div>
