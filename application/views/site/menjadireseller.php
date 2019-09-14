@@ -129,11 +129,9 @@
 							<h3>#13 Fashion Wanita</h3>
 							<h4>Fashion emang gaada matinya, yaa kan kak.. sekarang udah gaperlu lagi pergi ke mall, kecuali kalau cuma mau ngadem aja yaa kan.. hehe.. tapi sekarang kan order fashion apapun bisa via online apalagi kita jual ga perlu stok barang jadi aman kalau Trendnya udah ganti, coba bayangin deh kalau kamu udah terlanjur stok barang sendiri, terus trend atau stok produk fashionmu itu udah ga jaman.. pasti rugi banget yaa kan apalagi udah nyetok banyak banget dirumah hmm wkwk 😀</h4>
 						</div>
-						<div class="col">
-						<a href="https://google.com" class="btn btn-success" role="button"><i class="fab fa-whatsapp"> Klik Disini Untuk Daftar Jadi Resseler Dropship</i></a>
-						</div>
 					</div>
 					</center>
+					<a href="https://google.com" class="btn btn-success" role="button"><i class="fab fa-whatsapp"> Klik Disini Untuk Daftar Jadi Reseller Dropship</i></a>
 					</div>
 					<!-- <img class="img-responsive" src="<?php echo base_url(); ?>assets/menjadires/menjadires14.png" alt="<?php echo base_url(); ?>"> -->
 				</div>
