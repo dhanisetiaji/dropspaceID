@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'https://dropspaceindonesia.com/gitrepo/';
+$config['base_url']	= 'http://localhost/oshop/';
 
 /*
 |--------------------------------------------------------------------------
