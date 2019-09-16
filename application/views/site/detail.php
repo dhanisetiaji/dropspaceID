@@ -25,7 +25,7 @@
 			<div class="container">
 				<div class="row">
 					<p class="pull-left">Copyleft © 2019.</p>
-					<p class="pull-right">Powered by <span>dhani setiaji</span></p>
+					<p class="pull-right">Powered by <span>Dropspace ID</span></p>
 				</div>
 			</div>
 		</div>

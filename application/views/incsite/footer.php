@@ -39,7 +39,7 @@
 			<div class="container">
 				<div class="row">
 					<p class="pull-left">Copyright © 2019</p>
-					<p class="pull-right">Powered by <span><a href="https://instagram.com/dhanisetiaji_">Dhani Setiaji</a></span></p>
+					<p class="pull-right">Powered by <span>Dropspace ID</span></p>
 				</div>
 			</div>
 		</div>
